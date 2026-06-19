@@ -1,0 +1,9 @@
+{
+  "name": "writing-plans-html",
+  "description": "Write a rigorous, task-by-task implementation plan and render it as a self-contained, syntax-highlighted HTML page (atom-one-dark) served on a local URL with a clickable outline, copy buttons, and progress-tracking checkboxes.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Florin Ciocirlan",
+    "url": "https://github.com/FlorinCiocirlan"
+  }
+}
