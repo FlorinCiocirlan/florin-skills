@@ -12,6 +12,12 @@
       "description": "Turn a spec into a rigorous task-by-task implementation plan rendered as a self-contained, syntax-highlighted (atom-one-dark) HTML page served on a local URL.",
       "source": "./plugins/writing-plans-html",
       "category": "productivity"
+    },
+    {
+      "name": "spoken-plans",
+      "description": "Write a rigorous task-by-task implementation plan, then read a short spoken summary of the key changes aloud via macOS text-to-speech. Uses the system default voice; supports named, Premium, and Personal voices.",
+      "source": "./plugins/spoken-plans",
+      "category": "productivity"
     }
   ]
 }

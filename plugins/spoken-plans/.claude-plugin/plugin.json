@@ -1,0 +1,9 @@
+{
+  "name": "spoken-plans",
+  "description": "Write a rigorous, task-by-task implementation plan and then read a short spoken summary of the key changes aloud through macOS text-to-speech, so you hear what's about to be built while you skim the plan. Uses the system default voice; supports named, Premium, and Personal voices.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Florin Ciocirlan",
+    "url": "https://github.com/FlorinCiocirlan"
+  }
+}
